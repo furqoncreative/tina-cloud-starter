@@ -2,7 +2,7 @@
   "header": {
     "icon": {
       "color": "primary",
-      "style": "circle",
+      "style": "float",
       "name": "coffee"
     },
     "color": "default",
